@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Passport size-removebg (1).png"
+  avatar           : "Sidebar image.jpg"
   name             : "Sai Deepak Pinakana"
   pronouns         : # example: "she/her"  
   bio              : "1st Year Ph.D. Student"
