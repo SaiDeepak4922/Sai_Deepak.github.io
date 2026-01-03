@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publications/WBE
 excerpt: 'One-line Summary: Review on methodology for COVID-19 detection through waster water based methods.'
 date: 2021-03-31
-venue: 'Global Journal of Environmental Science and Management'
+venue: 'Global Journal of Environmental Science and Management [IF:2.9]'
 paper_number: 1
 ---
 
