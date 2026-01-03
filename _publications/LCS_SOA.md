@@ -1,5 +1,5 @@
 ---
-title: 11. "Using Low-Cost Sensors for Source Attribution and Health Assessment: An Air Quality Study in Brownsville, Texas"
+title: "11. Using Low-Cost Sensors for Source Attribution and Health Assessment: An Air Quality Study in Brownsville, Texas"
 collection: publications
 category: manuscripts
 permalink: /publications/LCS_SOA
