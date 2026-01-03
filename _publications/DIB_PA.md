@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publications/DIB_PA
 excerpt: 'One-line Summary: A month of dataset containing indoor and outdoor PM2.5 at residences in Rio Grande Valley.'
 date: 2025-03-19
-venue: 'Data in Brief'
+venue: 'Data in Brief [IF:1.4]'
 paper_number: 10
 ---
 
