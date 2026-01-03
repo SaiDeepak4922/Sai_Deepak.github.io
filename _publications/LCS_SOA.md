@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publications/LCS_SOA
 excerpt: 'One-line Summary: A community case study, utilizing data from low-cost air sensors for source attribution.'
 date: 2025-12-05
-venue: 'Atmospheric Environment: X'
+venue: 'Atmospheric Environment: X [IF:3.4]'
 paper_number: 11
 ---
 
