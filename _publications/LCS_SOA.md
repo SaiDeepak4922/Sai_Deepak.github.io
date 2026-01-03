@@ -16,36 +16,39 @@ Air quality monitoring remains a challenge in areas lacking or having sparse fed
 <h3>Key Figures from the Published Article</h3>
 
 <figure>
-  <img src="{{ site.baseurl }}/files/LCS_SOA_Fig1.jpg" 
+  <img src="{{ '/files/LCS_SOA_Fig1.jpg' | relative_url }}"
        alt="Figure 1. Study area and sensor deployment"
        width="700">
   <figcaption>
     <strong>Figure 1.</strong> Study area and sensor deployment.
-    <a href="https://www.sciencedirect.com/science/article/pii/S2590162125000954#fig1" target="_blank">
+    <a href="https://www.sciencedirect.com/science/article/pii/S2590162125000954#fig1"
+       target="_blank" rel="noopener">
       (View in journal)
     </a>
   </figcaption>
 </figure>
 
 <figure>
-  <img src="{{ site.baseurl }}/files/LCS_SOA_Fig5.jpg" 
+  <img src="{{ '/files/LCS_SOA_Fig5.jpg' | relative_url }}"
        alt="Figure 5. Temporal variability of 24-hour averaged PM2.5"
        width="700">
   <figcaption>
     <strong>Figure 5.</strong> Temporal variability of 24-hour averaged PM<sub>2.5</sub>.
-    <a href="https://www.sciencedirect.com/science/article/pii/S2590162125000954#fig5" target="_blank">
+    <a href="https://www.sciencedirect.com/science/article/pii/S2590162125000954#fig5"
+       target="_blank" rel="noopener">
       (View in journal)
     </a>
   </figcaption>
 </figure>
 
 <figure>
-  <img src="{{ site.baseurl }}/files/LCS_SOA_Fig11.jpg" 
-       alt="Figure 11. Conditional Probability Function plots for PM2.5"
+  <img src="{{ '/files/LCS_SOA_Fig11.jpg' | relative_url }}"
+       alt="Figure 11. Conditional Probability Function plots for PM2.5 at all sites"
        width="700">
   <figcaption>
     <strong>Figure 11.</strong> Conditional Probability Function (CPF) plots for PM<sub>2.5</sub> at all sites.
-    <a href="https://www.sciencedirect.com/science/article/pii/S2590162125000954#fig11" target="_blank">
+    <a href="https://www.sciencedirect.com/science/article/pii/S2590162125000954#fig11"
+       target="_blank" rel="noopener">
       (View in journal)
     </a>
   </figcaption>
