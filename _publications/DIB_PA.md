@@ -3,10 +3,10 @@ title: "Dataset on indoor and outdoor PM2.5 concentrations at two residences usi
 collection: publications
 category: manuscripts
 permalink: /publications/DIB_PA
-excerpt: 'One-line Summary: A month of dataset containing indoor and outdoor PM2.5 measurements at residences in Rio Grande Valley.'
+excerpt: 'One-line Summary: A month of dataset containing indoor and outdoor PM2.5 at residences in Rio Grande Valley.'
 date: 2025-03-19
 venue: 'Data in Brief'
-paper_number: 11
+paper_number: 10
 ---
 
 Fine particulate matter (PM<sub>2.5</sub>) is one of the criteria air pollutants associated with adverse respiratory and cardiovascular health effects. This dataset contains hourly and daily averaged measurements of PM<sub>2.5</sub> concentrations (μg/m<sup>3</sup>) collected from two residential homes in the Rio Grande Valley (RGV) Region of South Texas, using PurpleAir-II-SD low-cost sensor. In addition, the dataset also includes temperature (ºC) and relative humidity (%) measured by the sensors. The data was collected for one month during the summer season from indoor (kitchen) and outdoor (front yard) environments at two locations: Home-1 in Weslaco City from June 16, 2024, to July 16, 2024, and Home-2 in Mission City from June 22, 2024, to July 16, 2024. Furthermore, the resultant wind speed and wind direction data were obtained from nearby Texas Commission on Environmental Quality (TCEQ) Continuous Ambient Monitoring Station (CAMS) site, providing a better understanding of meteorological influences on air quality.
