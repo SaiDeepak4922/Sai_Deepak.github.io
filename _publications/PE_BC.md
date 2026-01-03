@@ -11,7 +11,7 @@ paper_number: 08
 
 Black carbon (BC) is a critical environmental pollutant with significant implications for human health. This study aims to quantify personal exposure to BC by focusing on the influence of microenvironments and time-activity patterns in the Rio Grande Valley (RGV) region of South Texas, USA. Over eight days in March and April 2023, a portable aethalometer and GPS tracking instruments were used to measure BC exposure among a study participant, alongside recording the time spent in various microenvironments. The BC measurements were correlated to the time activity patterns to calculate BC inhaled dosage values thereby elucidating its impact on human health. The mean values for different hours ranged from the lowest,0.26 μg/m<sup>3</sup> ± 0.29 at 02:00, to the highest, 1.07 μg/m<sup>3</sup> ± 1.40 at 17:00. The study also identified peak BC levels in areas near major roadways and airports. Outdoor activities accounted for 31% - 33% of the BC inhaled dosage on weekends, which was much higher than the 0.10% - 1.42% contribution observed on weekdays. The results also reflect a negative impact of Mexican wildfire activities on black carbon in this border region. This research provides insights into one of the first black carbon measurement studies conducted in the South Texas, U.S.– Tamaulipas State, Mexico border region.
 
-[Access the paper]("https://doi.org/10.1016/j.envc.2024.101046")
+[Access the paper](https://doi.org/10.1016/j.envc.2024.101046)
 
 <hr>
 
