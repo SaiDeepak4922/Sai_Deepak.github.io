@@ -10,8 +10,8 @@ var addressPoints = [
     -0.1277653
   ],
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7879363,
-    -122.4075201
+    "42nd Annual Conference - American Association for Aerosol Research<br />Albuquerque Convention Center; Albuquerque, NM",
+    35.0841034,
+    -106.650985
   ]
 ];
