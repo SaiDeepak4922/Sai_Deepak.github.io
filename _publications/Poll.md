@@ -3,7 +3,7 @@ title: "Assessment of Air Pollution Levels during Sugarcane Stubble Burning Even
 collection: publications
 category: manuscripts
 permalink: /publications/Poll
-excerpt: 'One-line Summary: Systematic literature review on impact of agricultural biomass burnings on air quality of CONUS.'
+excerpt: 'One-line Summary: Case study of sugarcane stubble burning activity and its impact on different air pollutants.'
 date: 2023-03-24
 venue: 'Pollutants'
 paper_number: 3
