@@ -3,7 +3,7 @@ title: "Characterization of BTEX species at Texas Commission on Environmental Qu
 collection: publications
 category: manuscripts
 permalink: /publications/btex
-excerpt: 'One-line Summary: BTEX trend analsis in Houston during 2018.'
+excerpt: 'One-line Summary: BTEX trend analysis in Houston during 2018.'
 date: 2025-02-22
 venue: 'Sustainable Chemistry for the Environment'
 paper_number: 09
