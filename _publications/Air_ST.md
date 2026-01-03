@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publications/Air_ST
 excerpt: 'One-line Summary: Systematic literature review on air pollution and associated health risks in South Texas.'
-date: 2023-03-24
+date: 2023-03-30
 venue: 'Air'
 paper_number: 4
 ---
