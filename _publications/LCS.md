@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publications/LCS
 excerpt: 'One-line Summary: Systematic literature review on Low Cost air sensors.'
 date: 2023-03-14
-venue: 'Earth [IF:3.4] Editor's choice'
+venue: 'Earth [IF:3.4]'
 paper_number: 2
 ---
 
