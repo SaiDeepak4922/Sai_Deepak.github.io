@@ -3,7 +3,7 @@ title: "Using Low-Cost Sensors for Source Attribution and Health Assessment: An 
 collection: publications
 category: manuscripts
 permalink: /publications/LCS_SOA
-excerpt: 'One-line Summary: A community case study, utilizing data from low-cost air sensors for source attribution'
+excerpt: 'One-line Summary: A community case study, utilizing data from low-cost air sensors for source attribution.'
 date: 2025-12-05
 venue: 'Atmospheric Environment: X'
 paper_number: 11
