@@ -13,8 +13,6 @@ Air quality monitoring remains a challenge in areas lacking or having sparse fed
 
 <hr>
 
-<div style="font-family: Arial, sans-serif;">
-
 <h3>Key Figures from the Published Article</h3>
 
 <figure>
@@ -55,6 +53,3 @@ Air quality monitoring remains a challenge in areas lacking or having sparse fed
     </a>
   </figcaption>
 </figure>
-
-</div>
-
