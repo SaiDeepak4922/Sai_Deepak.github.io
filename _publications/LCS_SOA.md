@@ -13,7 +13,7 @@ Air quality monitoring remains a challenge in areas lacking or having sparse fed
 
 <hr>
 
-<div style="font-family: Arial, sans-serif; font-size: 16px; line-height: 1.5;">
+<div style="font-family: Arial, sans-serif; font-size: 16px;">
 
 <h3 style="font-size: 22px; font-weight: 600;">
   Key Figures from the Published Article
@@ -59,4 +59,3 @@ Air quality monitoring remains a challenge in areas lacking or having sparse fed
 </figure>
 
 </div>
-
