@@ -12,6 +12,3 @@ Oral Presentation on the NASA-Funded project : Integrating Data from Satellites 
 
 
 ![Presentation](https://saideepak4922.github.io/Sai_Deepak.github.io/files/AAAR_Fig1.jpeg)
-
-![Presentation](https://saideepak4922.github.io/Sai_Deepak.github.io/files/AAAR_Fig2.jpeg)
-
