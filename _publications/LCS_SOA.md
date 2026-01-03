@@ -13,13 +13,18 @@ Air quality monitoring remains a challenge in areas lacking or having sparse fed
 
 <hr>
 
-<h3>Key Figures from the Published Article</h3>
+<div style="font-family: 'Segoe UI', Arial, sans-serif; font-size: 16px; line-height: 1.5;">
 
-<figure>
+<h3 style="font-size: 22px; font-weight: 600;">
+  Key Figures from the Published Article
+</h3>
+
+<figure style="margin-bottom: 28px;">
   <img src="https://saideepak4922.github.io/Sai_Deepak.github.io/files/LCS_SOA_Fig1.jpg"
        alt="Figure 1. Study area and sensor deployment"
-       width="700">
-  <figcaption>
+       width="700"
+       style="display: block; margin: 0 auto;">
+  <figcaption style="font-size: 14px; color: #555; margin-top: 6px;">
     <strong>Figure 1.</strong> Study area and sensor deployment.
     <a href="https://www.sciencedirect.com/science/article/pii/S2590162125000954#fig1"
        target="_blank" rel="noopener">
@@ -28,11 +33,12 @@ Air quality monitoring remains a challenge in areas lacking or having sparse fed
   </figcaption>
 </figure>
 
-<figure>
+<figure style="margin-bottom: 28px;">
   <img src="https://saideepak4922.github.io/Sai_Deepak.github.io/files/LCS_SOA_Fig5.jpg"
        alt="Figure 5. Temporal variability of 24-hour averaged PM2.5"
-       width="700">
-  <figcaption>
+       width="700"
+       style="display: block; margin: 0 auto;">
+  <figcaption style="font-size: 14px; color: #555; margin-top: 6px;">
     <strong>Figure 5.</strong> Temporal variability of 24-hour averaged PM<sub>2.5</sub>.
     <a href="https://www.sciencedirect.com/science/article/pii/S2590162125000954#fig5"
        target="_blank" rel="noopener">
@@ -41,11 +47,12 @@ Air quality monitoring remains a challenge in areas lacking or having sparse fed
   </figcaption>
 </figure>
 
-<figure>
+<figure style="margin-bottom: 28px;">
   <img src="https://saideepak4922.github.io/Sai_Deepak.github.io/files/LCS_SOA_Fig11.jpg"
        alt="Figure 11. Conditional Probability Function plots for PM2.5 at all sites"
-       width="700">
-  <figcaption>
+       width="700"
+       style="display: block; margin: 0 auto;">
+  <figcaption style="font-size: 14px; color: #555; margin-top: 6px;">
     <strong>Figure 11.</strong> Conditional Probability Function (CPF) plots for PM<sub>2.5</sub> at all sites.
     <a href="https://www.sciencedirect.com/science/article/pii/S2590162125000954#fig11"
        target="_blank" rel="noopener">
@@ -54,3 +61,4 @@ Air quality monitoring remains a challenge in areas lacking or having sparse fed
   </figcaption>
 </figure>
 
+</div>
