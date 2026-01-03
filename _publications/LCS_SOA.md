@@ -16,7 +16,7 @@ Air quality monitoring remains a challenge in areas lacking or having sparse fed
 <h3>Key Figures from the Published Article</h3>
 
 <figure>
-  <img src="{{ '/files/LCS_SOA_Fig1.jpg' | relative_url }}"
+  <img src="https://saideepak4922.github.io/Sai_Deepak.github.io/files/LCS_SOA_Fig1.jpg"
        alt="Figure 1. Study area and sensor deployment"
        width="700">
   <figcaption>
@@ -29,7 +29,7 @@ Air quality monitoring remains a challenge in areas lacking or having sparse fed
 </figure>
 
 <figure>
-  <img src="{{ '/files/LCS_SOA_Fig5.jpg' | relative_url }}"
+  <img src="https://saideepak4922.github.io/Sai_Deepak.github.io/files/LCS_SOA_Fig5.jpg"
        alt="Figure 5. Temporal variability of 24-hour averaged PM2.5"
        width="700">
   <figcaption>
@@ -42,7 +42,7 @@ Air quality monitoring remains a challenge in areas lacking or having sparse fed
 </figure>
 
 <figure>
-  <img src="{{ '/files/LCS_SOA_Fig11.jpg' | relative_url }}"
+  <img src="https://saideepak4922.github.io/Sai_Deepak.github.io/files/LCS_SOA_Fig11.jpg"
        alt="Figure 11. Conditional Probability Function plots for PM2.5 at all sites"
        width="700">
   <figcaption>
@@ -53,3 +53,4 @@ Air quality monitoring remains a challenge in areas lacking or having sparse fed
     </a>
   </figcaption>
 </figure>
+
