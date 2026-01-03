@@ -18,7 +18,7 @@ Indoor air quality (IAQ) poses a significant public health concern, and exposure
 <h3>Key Figures from the Published Article</h3>
 
 <figure>
-  <img src="https://saideepak4922.github.io/Sai_Deepak.github.io/files/IAQ_ENV_Fig6.jpg"
+  <img src="https://saideepak4922.github.io/Sai_Deepak.github.io/files/IAQ_ENV_Fig6.png"
        alt="Figure 6. Timeseries of 1-hour averaged PM2.5 and CO2 concentrations in different microenvironments of the residence"
        width="700">
   <figcaption>
@@ -31,7 +31,7 @@ Indoor air quality (IAQ) poses a significant public health concern, and exposure
 </figure>
 
 <figure>
-  <img src="https://saideepak4922.github.io/Sai_Deepak.github.io/files/IAQ_ENV_Fig7.jpg"
+  <img src="https://saideepak4922.github.io/Sai_Deepak.github.io/files/IAQ_ENV_Fig7.png"
        alt="Figure 7. Hourly variability of PM2.5 and CO2 during the study period"
        width="700">
   <figcaption>
