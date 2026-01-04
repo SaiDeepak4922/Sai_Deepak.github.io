@@ -20,8 +20,8 @@ main:
   - title: "Outreach activities"
     url: /portfolio/
         
-  - title: "News"
-    url: /year-archive/
+ # - title: "News"
+ #  url: /year-archive/
     
   - title: "CV"
     url: /files/CV.pdf
